@@ -1,2 +1,2 @@
 # DAD
-Diretório Acadêmico de direito da UNIFG
+Diretório Acadêmico de direito da UNIFG Front-End
